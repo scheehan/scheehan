@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scheehan
-- 👀 I’m interested in watching movies, reading books and to explore the world
+- 👀 I’m interested in watching movies, reading books and to explore the unknown
 - 🌱 I’m currently learning python, HTML, JSP, and SQL
 - 💞️ I’m looking to collaborate on data science and Quantum technology
 - 📫 How to reach me - Twitter @scheehan
